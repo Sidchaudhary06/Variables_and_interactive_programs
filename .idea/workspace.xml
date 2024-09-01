@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="299e7ea2-c467-4632-856a-069b5390d02e" name="Changes" comment="Length and Width of Rectangle" />
+    <list default="true" id="299e7ea2-c467-4632-856a-069b5390d02e" name="Changes" comment="&#10;Three Integers">
+      <change afterPath="$PROJECT_DIR$/Conversion of mass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sidchaudhary06"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Sidchaudhary06/Variables_and_interactive_programs.git",
@@ -35,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Length and width of Rectangle.executor": "Run",
+    "Python.Three integer numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -71,11 +84,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725181902614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;Three Integers">
+      <option name="closed" value="true" />
+      <created>1725182189853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725182189853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Length and Width of Rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Length and Width of Rectangle" />
+    <MESSAGE value="&#10;Three Integers" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Three Integers" />
   </component>
 </project>
